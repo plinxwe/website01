@@ -1,0 +1,195 @@
+﻿header, footer {
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+border-radius: 10px;
+  margin-bottom: 20px;
+
+
+}
+body {
+    background-color: #333333; 
+}
+{
+	background-image: url(https://images.ctfassets.net/rporu91m20dc/5cSt0wdle8EIeoeaYgA8go/639ccce31c99fe2d2d16d60b9c27f2ac/59686_10_1.png);
+
+	flex: right;
+}
+main {
+
+
+
+flex:left;
+  height: 100%;
+ 
+}
+head{
+	display: flex;
+	flex: left;
+
+}
+body{
+	background-image: url(https://nebohouse.ru/material/color/14801);
+background-attachment: fixed;
+  background-size: cover;
+}
+.post2{
+	float: left;
+	width:  66%;
+	background-color: black;
+	height: auto;color: rgb(255, 255, 255);
+border-radius: 10px;
+margin-bottom: 30px;
+padding: 50px;
+float: left;
+display: flex;
+	flex: fixed;
+
+
+
+}
+.post3{
+	clear: both;
+	animation-delay: -500ms;
+	background-color: black;
+	height: auto;
+	color: white;
+border-radius: 10px;
+margin-bottom: 20px;
+padding: 50px;
+ object-fit: cover;
+}
+.post4{
+	
+	background-color: black;
+	height: auto;
+	color: white;
+border-radius: 10px;
+margin-bottom: 20px;
+padding: 10px;
+
+left: 50%;
+clear: both;
+}
+
+
+
+
+
+.post {
+  background-color: black;
+
+background-attachment: fixed;
+width: 17%;
+height: auto;
+color: white;
+border-radius: 10px;
+float: right;
+
+}
+
+.post img {
+  margin: 20px;
+
+}
+
+.footer-columns {
+  display: flex;
+}
+
+.footer-column {
+  
+  margin: 20px;
+color: white;
+
+}
+
+#menu{
+	position: relative;
+	display: block;
+	width: 100%;
+	height: auto;
+display: flex;
+	flex: left;
+
+
+}
+#menu ul{
+	position: relative;
+	display: block;
+	width: 100%;
+	height: auto;
+	
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu > ul::after{
+	display: block;
+	width: 100%;
+	height:0px;
+	clear: both;
+	content: " ";
+}
+
+#menu ul li{
+	position: relative;
+	display: block;
+	width: 200px;
+	height: auto;
+	flex: right;
+	float: inherit;
+   
+}
+
+#menu ul li a{
+	display: block;
+	padding: 10px 25px 10px 25px;
+	font-size: 17px;
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+		
+	box-sizing: border-box;
+}
+
+#menu ul li ul{
+	position: absolute; 
+	top: 30px;
+	right: -100px;
+	display: none;
+	height: auto;
+	background: black;
+}
+
+#menu ul li:hover ul{
+	display: block;
+}
+
+#menu li:hover{
+	background: black;
+}
+post{
+	
+}
+#container {
+ width: auto;
+}
+
+
+
+
+center{
+	padding: 10px;
+	
+}
+tio{
+	background-image: (https://images.ctfassets.net/rporu91m20dc/5cSt0wdle8EIeoeaYgA8go/639ccce31c99fe2d2d16d60b9c27f2ac/59686_10_1.png);	
+	width: 10%;
+        height: 10%;
+     object-fit: cover;
+}
+
+   img {
+       
+        object-fit: cover;
+      }
